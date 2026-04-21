@@ -1,7 +1,7 @@
 # Author: Zachary Fields
 # GitHub username: ruy223
 # Date: 11/03/26
-# Description: Portfolio Project CS 162, Abstract animal board game,
+# Description: Abstract animal board game,
              # in this game there two players on a 7x7 board. Each player controls
              # 4 defined animal pieces that can move a specific number of square
              # in a diagonal or orthogonal direction. If the players "Beluga" is captured they lose the match
